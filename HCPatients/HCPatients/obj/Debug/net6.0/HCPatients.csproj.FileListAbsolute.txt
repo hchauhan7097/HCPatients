@@ -1,0 +1,544 @@
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.exe
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.deps.json
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.pdb
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\scopedcss\bundle\HCPatients.styles.css
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\scopedcss\projectbundle\HCPatients.bundle.scp.css
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\refint\HCPatients.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.pdb
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\obj\Debug\net6.0\ref\HCPatients.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Lenovo\source\repos\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\appsettings.Development.json
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\appsettings.json
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.staticwebassets.runtime.json
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.exe
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.deps.json
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.runtimeconfig.json
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\HCPatients.pdb
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Humanizer.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\MessagePack.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Common.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.csproj.AssemblyReference.cache
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.GeneratedMSBuildEditorConfig.editorconfig
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.AssemblyInfoInputs.cache
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.AssemblyInfo.cs
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.csproj.CoreCompileInputs.cache
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.MvcApplicationPartsAssemblyInfo.cs
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.MvcApplicationPartsAssemblyInfo.cache
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.RazorAssemblyInfo.cache
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.RazorAssemblyInfo.cs
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\staticwebassets.build.json
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\staticwebassets.development.json
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\scopedcss\bundle\HCPatients.styles.css
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\scopedcss\projectbundle\HCPatients.bundle.scp.css
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.csproj.CopyComplete
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\refint\HCPatients.dll
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.pdb
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\HCPatients.genruntimeconfig.cache
+F:\Conestoga\PROG 8550\HCPatients\HCPatients\obj\Debug\net6.0\ref\HCPatients.dll

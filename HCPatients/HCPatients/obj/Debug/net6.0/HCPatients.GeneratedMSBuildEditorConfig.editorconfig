@@ -1,0 +1,172 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HCPatients
+build_property.RootNamespace = HCPatients
+build_property.ProjectDir = F:\Conestoga\PROG 8550\HCPatients\HCPatients\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Conestoga\PROG 8550\HCPatients\HCPatients
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCConcentrationUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb25jZW50cmF0aW9uVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCConcentrationUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb25jZW50cmF0aW9uVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCConcentrationUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb25jZW50cmF0aW9uVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCConcentrationUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb25jZW50cmF0aW9uVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCConcentrationUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb25jZW50cmF0aW9uVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCCountries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb3VudHJpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCCountries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb3VudHJpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCCountries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb3VudHJpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCCountries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb3VudHJpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCCountries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENDb3VudHJpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDiagnosisCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaWFnbm9zaXNDYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDiagnosisCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaWFnbm9zaXNDYXRlZ29yaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDiagnosisCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaWFnbm9zaXNDYXRlZ29yaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDiagnosisCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaWFnbm9zaXNDYXRlZ29yaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDiagnosisCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaWFnbm9zaXNDYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDispensingUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaXNwZW5zaW5nVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDispensingUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaXNwZW5zaW5nVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDispensingUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaXNwZW5zaW5nVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDispensingUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaXNwZW5zaW5nVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCDispensingUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENEaXNwZW5zaW5nVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCMedicationTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENNZWRpY2F0aW9uVHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCMedicationTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENNZWRpY2F0aW9uVHlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCMedicationTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENNZWRpY2F0aW9uVHlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCMedicationTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENNZWRpY2F0aW9uVHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/HCMedicationTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSENNZWRpY2F0aW9uVHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Conestoga/PROG 8550/HCPatients/HCPatients/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v0segeqc2d
