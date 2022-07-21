@@ -20,6 +20,8 @@ namespace HCPatients.Controllers
 
         // GET: HCDiagnosisCategories
         // This method redirect to DiagnosisCategories
+        //Index is an default action for an any controller
+        //Whenever a controller is called without any action index action will be triggered
         public async Task<IActionResult> Index()
         {
               return _context.DiagnosisCategories != null ? 
